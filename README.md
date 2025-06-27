@@ -19,3 +19,5 @@
 ![Evolution du workflow](/images/image5.png)
 
 6. Le requirements.txt est présent avec pylint
+
+7. Ajout du Dockerfile et dernier push
